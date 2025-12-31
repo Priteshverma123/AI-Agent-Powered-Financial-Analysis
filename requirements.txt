@@ -1,0 +1,27 @@
+# Core Dependencies
+streamlit
+plotly
+pandas
+numpy
+
+# Stock Market Data
+yfinance
+
+# LangChain & AI
+langchain
+langchain-openai
+langchain-community
+langchain-core
+langgraph
+
+# Azure OpenAI
+openai
+
+# Web Search
+tavily-python
+
+# Utilities
+python-dotenv
+asyncio
+aiohttp
+requests
