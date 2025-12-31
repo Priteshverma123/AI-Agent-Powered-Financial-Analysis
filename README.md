@@ -96,7 +96,7 @@ Track essential metrics at a glance:
 ![Charts](./images/demo2.png)
 
 ### Interactive Agent
-![Charts](./images/ai analysis.png)
+![Agent](./images/aianalysis.png)
 
 </div>
 
