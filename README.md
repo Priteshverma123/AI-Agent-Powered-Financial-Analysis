@@ -95,6 +95,9 @@ Track essential metrics at a glance:
 ### Interactive Charts
 ![Charts](./images/demo2.png)
 
+### Interactive Agent
+![Charts](./images/ai analysis.png)
+
 </div>
 
 ---
@@ -419,13 +422,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📧 Contact
-
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/financial-dashboard](https://github.com/yourusername/financial-dashboard)
-
----
 
 ## ⭐ Show Your Support
 
